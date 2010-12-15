@@ -1,0 +1,9 @@
+package com.Domain;
+
+public class Goal {
+
+	public String GetTitle(){
+		return null;
+	}
+
+}
